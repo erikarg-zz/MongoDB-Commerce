@@ -1,13 +1,49 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Project Commerce :hamburger:
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<details>
+<summary>:brazil: Português</summary>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Descrição
+
+Projeto desenvolvido durante o terceiro módulo (desenvolvimento back-end) do curso da Trybe.
+
+## Objetivo
+
+Trabalhar com dados do cardápio do McDonald's para alterar documentos usando: 
+
+- métodos de update com operadores simples;
+
+- operadores complexos e modificadores;
+
+- queries e expressões complexas utilizando índices textuais e expressões regulares.
+
+## Stacks utilizadas
+
+* **Back-end:** JavaScript, MongoDB
+* **Plataforma:** Docker
+
+</details>
+
+<details>
+<summary>:us: English</summary>
+
+## Description
+
+Project developed during the third module (back-end development) of the Trybe course.
+
+## Objective
+
+Work with McDonald's menu data to change documents using:
+
+-update methods with simple operators;
+
+-complex operators and modifiers;
+
+-queries and complex expressions using textual indexes and regular expressions.
+
+## Stacks
+
+* **Back-end:** JavaScript, MongoDB
+* **Platform:** Docker
+
+</details>
